@@ -204,7 +204,7 @@ strong {
   background-image: url('../images/header/rod-long-I79Pgmhmy5M-unsplash.jpg');
 }
 
-.overlay {
+.overlay-1 {
   background:-webkit-linear-gradient(to top, var(--dark-color), transparent 100%);
   background:-moz-linear-gradient(to top, var(--dark-color), transparent 100%);
   background:-o-linear-gradient(to top, var(--dark-color), transparent 100%);
@@ -214,8 +214,7 @@ strong {
   right: 0;
   bottom: 0;
   left: 0;
-  height: 100%;
- width: 100%;	
+ 
 }
 
 
