@@ -277,7 +277,7 @@ strong {
 .hero-carousel .reviews-text,
 .hero-text {
   color: var(--white-color);
-  color: #fff;	
+  color: #fff !important;	
 }
 
 .price-tag {
