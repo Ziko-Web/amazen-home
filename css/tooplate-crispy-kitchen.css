@@ -205,6 +205,10 @@ strong {
 }
 
 .overlay {
+  background:-webkit-linear-gradient(to top, var(--dark-color), transparent 100%);
+  background:-linear-gradient(to top, var(--dark-color), transparent 100%);
+  background:-moz-linear-gradient(to top, var(--dark-color), transparent 100%);
+  background:-o-linear-gradient(to top, var(--dark-color), transparent 100%);
   background: linear-gradient(to top, var(--dark-color), transparent 100%);
   position: absolute;
   top: 0;
