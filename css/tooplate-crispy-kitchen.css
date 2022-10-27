@@ -226,6 +226,7 @@ strong {
   overflow: hidden;
   padding-top: 15.542rem;
   padding-bottom: 15.542rem;
+  border-radius: 5px 5px 0 0;
 }
 
 .hero .container {
